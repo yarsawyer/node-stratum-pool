@@ -35,7 +35,8 @@
         "bchaddrjs": "^0.4.9",
         "bignum": "^0.13.1",
         "bitcoinjs-lib": "^5.1.10",
-        "multi-hashing": "git://github.com/likloadm/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/likloadm/node-multi-hashing.git",
+        "hasher-kawpow": "git+https://github.com/likloadm/hasher-kawpow.git"
     },
     "engines": {
         "node": ">=8.11"
